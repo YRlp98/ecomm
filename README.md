@@ -1,4 +1,4 @@
-# Ccomm
+# Ecomm
 
 a simple e-commerce website written in [node.js](https://nodejs.org/) <br />
 
